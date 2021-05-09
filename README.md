@@ -1,13 +1,13 @@
 <h2 align="left">
  <abc>
-  <br>Bello <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm MengTong AKA Saty :blush:<br>
-  <br> I'm a Full Stack Web Developer :computer:<br>
+  <br>Bello <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 💜💜💜<br>
+  <br> I'm MengTong Un AKA Saty :blush: 🥰<br>
+  <br> I'm a Full Stack Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I am learning and using:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -28,13 +28,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on CRM Project
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Developer Intern at KIT 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Phase 2 condidate of "Microsoft Azure Hackathon 2021"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :computer: I'm currently working on eFind, Hav Lan, and Café Buddy project.
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure, Blockchain, Security Network, Data Science and ...
+- :rocket: "Always ready to collaborate for Dev Experiments and Hiring 👨‍💼"
+- :man_technologist: Developer Intern at KIT and New StartUp
+- :dart: Life Hack: "Explore :fire: and go through new Tech" 
+- :trophy: Phase 2 condidate of "Microsoft Azure Hackathon 2021,"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking and Sharing<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
