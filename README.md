@@ -28,7 +28,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on eFind, Hav Lan, and Café Buddy project.
+- :computer: I'm currently working on eFind, ArkOnix, and Café Buddy project.
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure, Blockchain, Security Network, Data Science and ...
 - :rocket: "Always ready to collaborate for Dev Experiments and Hiring 👨‍💼"
 - :man_technologist: Developer Intern at KIT and New StartUp
