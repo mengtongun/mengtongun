@@ -84,7 +84,7 @@
 <a href="https://fb.com/unmengtong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unmentong" height="30" width="40" /></a>
 <a href="https://instagram.com/umt.uku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umt.uku" height="30" width="40" /></a>
 <a href="https://medium.com/@mengtongun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mengtongun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckhp-dmjayizgvhb6gd1l-q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckhp-dmjayizgvhb6gd1l-q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKhP-dMJaYizGvHB6gd1L-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckhp-dmjayizgvhb6gd1l-q" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mengtongun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mengtongun" height="30" width="40" /></a>
 </p>
 
