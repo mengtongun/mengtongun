@@ -54,7 +54,7 @@
 
 - 🔭 I’m currently working on [eFind](https://github.com/mengtongun/efind_beta)
 
-- 🌱 I’m currently learning **ReactJS, Flutter, AWS, Redux, Firebase...**
+- 🌱 I’m currently learning **GoLang, Elastic, Docker, RemixJS...**
 
 - 👨‍💻 All of my projects are available at [SaTy RepoS](https://github.com/mengtongun)
 
