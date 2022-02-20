@@ -54,11 +54,11 @@
 
 - 🔭 I’m currently working on [eFind](https://github.com/mengtongun/efind_beta)
 
-- 🌱 I’m currently learning **GoLang, Elastic, Docker, RemixJS...**
+- 🌱 I’m learning **GoLang, Elastic...**
 
 - 👨‍💻 All of my projects are available at [SaTy RepoS](https://github.com/mengtongun)
 
-- 📝 I regularly write articles on [https://medium.com/@unmengtong](https://medium.com/@unmengtong)
+<!-- - 📝 I regularly write articles on [https://medium.com/@unmengtong](https://medium.com/@unmengtong) -->
 
 - 💬 Ask me about **react, nextjs,flutter, firebase, nodejs,...**
 
