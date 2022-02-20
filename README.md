@@ -58,8 +58,6 @@
 
 - 👨‍💻 All of my projects are available at [SaTy RepoS](https://github.com/mengtongun)
 
-<!-- - 📝 I regularly write articles on [https://medium.com/@unmengtong](https://medium.com/@unmengtong) -->
-
 - 💬 Ask me about **react, nextjs,flutter, firebase, nodejs,...**
 
 - 📫 How to reach me **unmengtong@gmail.com**
