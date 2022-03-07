@@ -48,7 +48,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mengtongun&label=Profile%20views&color=0e75b6&style=flat" alt="mengtongun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mengtongun" alt="mengtongun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mengtongun&theme=darkhub" alt="mengtongun" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/unmengtong" target="blank"><img src="https://img.shields.io/twitter/follow/unmengtong?logo=twitter&style=for-the-badge" alt="unmengtong" /></a> </p>
 
