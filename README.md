@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [SaTy RepoS](https://github.com/mengtongun)
 
-- 💬 Ask me about **react, nextjs,flutter, firebase, nodejs, love💔 life ,...**
+- 💬 Ask me about **react,vue2, vue3, nextjs,flutter, firebase, nodejs, love💔 life ,...**
 
 - 📫 How to reach me **unmengtong@gmail.com**
 
