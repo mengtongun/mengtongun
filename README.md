@@ -74,3 +74,8 @@
 <br>
 
 [![SaTy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mengtongun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center"> 
+ <a href="https://app.daily.dev/mengtongun"><img src="https://api.daily.dev/devcards/e33fd3ac4eee45ce93cf177e832d6082.png?r=mpy" width="400" alt="SaTy's Dev Card"/></a>
+</p>
+
