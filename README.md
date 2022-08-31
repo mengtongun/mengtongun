@@ -4,7 +4,7 @@
 <!-- Introduction Section  -->
  
 <h1 align="center">Hi 👋, I'm Mengtong AKA SaTy</h1>
-<h3 align="center">A passionate full stack developer from Cambodia</h3>
+<h3 align="center">A 🥔 developer from Cambodia</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mengtongun&label=Profile%20views&color=0e75b6&style=flat" alt="mengtongun" /> </p>
 
