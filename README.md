@@ -13,19 +13,12 @@
 
 <br>
 
-- 🔭 I’m currently working on [eFind](https://github.com/mengtongun/efind_beta)
-
-- 🌱 I’m learning **GoLang...** But Don't have time now lmaooooooo~~~~~~ 🥲
-
-- 👨‍💻 All of my projects are available at [SaTy RepoS](https://github.com/mengtongun)
-
-- 💬 Ask me about ***(JavaScript)*** **react, vue2, vue3, nextjs, flutter, firebase, nodejs, love💔 life ,...**
 
 - 📫 How to reach me **unmengtong@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mengtong-u-6a4b70123/](https://www.linkedin.com/in/mengtong-u-6a4b70123/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mengtong-u-6a4b70123/) or [Resume](https://resume.io/r/fsbCPQBiS)
 
-- ⚡ Fun fact **I love to attend meetups for learning & conferences for networking and sharing**
+- ⚡ Fun fact **I love adventuring, meditating, cycling and photography.**
 
 <hr>
 <br>
