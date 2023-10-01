@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **unmengtong@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mengtong-u-6a4b70123/) or [Resume](https://resume.io/r/fsbCPQBiS)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/saty-san) or [Resume](https://twentynine.click)
 
-- ⚡ Fun fact **I love adventuring, meditating, cycling and photography.**
+- ⚡ Fun fact **I love adventuring, meditating, cycling, and photography.**
 
 <hr>
 <br>
@@ -30,7 +30,7 @@
 <a href="https://codepen.io/mengtongun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mengtongun" height="30" width="40" /></a>
 <a href="https://dev.to/mengtongun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mengtongun" height="30" width="40" /></a>
 <a href="https://twitter.com/unmengtong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unmengtong" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mengtong-u-6a4b70123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mengtong-u-6a4b70123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saty-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saty-san" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14760493/mengtong-un" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14760493/mengtong-un" height="30" width="40" /></a>
 <a href="https://codesandbox.com/unmengtong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="unmengtong" height="30" width="40" /></a>
 <a href="https://kaggle.com/mengtongun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mengtongun" height="30" width="40" /></a>
