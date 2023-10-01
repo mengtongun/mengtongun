@@ -1,10 +1,11 @@
 
-<!-- Third Update 20/03/22  -->
+<!-- Third Update 01/10/23  -->
  
 <!-- Introduction Section  -->
  
 <h1 align="center">Hi 👋, I'm Mengtong AKA SaTy</h1>
 <h3 align="center">A Software Engineer👨🏻‍💻 from Cambodia🇰🇭</h3>
+<h3 align="center">Seeking🔎 for a REMOTE JOB👨🏻‍💻🛜 </h3>
 <br>
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mengtongun&label=Profile%20views&color=0e75b6&style=flat" alt="mengtongun" /> </p>
@@ -19,7 +20,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/saty-san) or [Resume](https://twentynine.click)
 
-- ⚡ Fun fact **I love adventuring, meditating, cycling, and photography.**
+- ⚡ Fun fact **I love adventuring, exploring, reading, meditating, cycling, and photography.**
 
 <hr>
 <br>
