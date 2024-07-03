@@ -111,5 +111,5 @@
 [![SaTy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mengtongun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
-<a href="https://app.daily.dev/mengtongun"><img src="https://api.daily.dev/devcards/e33fd3ac4eee45ce93cf177e832d6082.png?r=2t7" width="400" alt="SaTy's Dev Card"/></a>
+<a href="https://app.daily.dev/mengtongun"><img src="https://api.daily.dev/devcards/v2/GtClGY6LlDO2UbQVzzqdf.png?r=egi&type=wide" width="652" alt="SaTy's Dev Card"/></a>
 </p>
